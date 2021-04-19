@@ -1,0 +1,16 @@
+ Processing  192  x  128  image
+ Number of iterations =  1500
+ 
+ Reading  192  x  128  picture from: edge192x128.pgm                                                 
+ 
+ iteration = 150 ====> stop criterion = 0.59593624681974688
+ iteration = 300 ====> stop criterion = 0.31607401853617034
+ iteration = 450 ====> stop criterion = 0.22414916712887134
+ iteration = 600 ====> stop criterion = 0.16443988082329497
+ iteration = 750 ====> stop criterion = 0.12784074003377555
+ iteration = 900 ====> stop criterion = 0.1016722470879472
+ 
+ Finishing 911 iterations
+ 
+ Writing  192  x  128  picture into: image192×128.pgm                                               
+ Runtime: 6.805419921875E-3
